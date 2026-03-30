@@ -1,0 +1,10 @@
+Experiment 1:
+Preprocessing:
+- resize 128x128
+- normalize
+
+
+
+
+
+Experiment 2: without augmentation
