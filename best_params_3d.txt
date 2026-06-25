@@ -1,0 +1,1 @@
+{'lr': 0.0001, 'weight_decay': 0, 'depth': 16, 'mode': '3d', 'batch_size': 2}
